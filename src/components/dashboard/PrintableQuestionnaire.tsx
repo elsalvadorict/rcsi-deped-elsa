@@ -291,9 +291,9 @@ function generatePrintableHtml(): string {
   <div class="kicker">El Salvador Division · RCSI Quarterly Survey</div>
   <h1>Research Culture Sustainability Index — Survey Questionnaire</h1>
   <div class="subtitle">A 35-item instrument for measuring the seven sub-indices of research culture</div>
-  <div style="display:inline-block; background:#fef3c7; border:1px solid #f59e0b; border-radius:3pt; padding:2pt 8pt; font-size:8pt; font-weight:600; color:#92400e; margin-bottom:8pt;">
-    Prototype — For Approval
-  </div>
+  // <div style="display:inline-block; background:#fef3c7; border:1px solid #f59e0b; border-radius:3pt; padding:2pt 8pt; font-size:8pt; font-weight:600; color:#92400e; margin-bottom:8pt;">
+  //   Prototype — For Approval
+  // </div>
   <div class="meta">
     <span>School: <strong>______________________</strong></span>
     <span>Quarter: <strong>______________________</strong></span>
